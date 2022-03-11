@@ -104,6 +104,13 @@
             </exclusions>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/com.github.davidmoten/rtree -->
+        <dependency>
+            <groupId>com.github.davidmoten</groupId>
+            <artifactId>rtree</artifactId>
+            <version>0.8.7</version>
+        </dependency>
+
         <!--  knife4j swagger界面   -->
         <dependency>
             <groupId>com.github.xiaoymin</groupId>
